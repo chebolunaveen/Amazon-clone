@@ -1,0 +1,139 @@
+.card{
+    width:220px;
+    height:340px;
+    border: 1px ;
+    border-radius: 1px;
+    border-style: initial;
+    position:relative;
+    left: 200px;
+    right:400px;
+    float: left;
+    margin: 5px;
+    /* text-align: center;*/
+} 
+.card1{
+    /* <div style="position: absolute; height: 10px; border: solid; bottom: 0; right: 0;  left: 0; "></div> */
+    width:220px;
+    height:340px;
+    border: 1px ;
+    border-radius: 1px;
+    border-style: initial;
+    position:absolute;
+    left: 200px;
+    right:0;
+    top:350px;
+    bottom:0;
+    float: left;
+    margin: 5px;
+}
+.card2{
+    /* <div style="position: absolute; height: 10px; border: solid; bottom: 0; right: 0;  left: 0; "></div> */
+    width:220px;
+    height:340px;
+    border: 1px ;
+    border-radius: 1px;
+    border-style: initial;
+    position:absolute;
+    left: 225px;
+    right:0;
+    top: -5px;
+    bottom:0;
+    float: left;
+    margin: 5px;
+}
+.card3{
+    /* <div style="position: absolute; height: 10px; border: solid; bottom: 0; right: 0;  left: 0; "></div> */
+    width:220px;
+    height:340px;
+    border: 1px ;
+    border-radius: 1px;
+    border-style: initial;
+    position:absolute;
+    left: 455px;
+    right:0;
+    top: -5px;
+    bottom:0;
+    float: left;
+    margin: 5px;
+}
+.card4{
+    /* <div style="position: absolute; height: 10px; border: solid; bottom: 0; right: 0;  left: 0; "></div> */
+    width:220px;
+    height:340px;
+    border: 1px ;
+    border-radius: 1px;
+    border-style: initial;
+    position:absolute;
+    left: 685px;
+    right:0;
+    top: -5px;
+    bottom:0;
+    float: left;
+    margin: 5px;
+}
+img{
+    width:90%;
+    padding:20px 5px 10px 5px;
+    padding:30px 5px 10px 5px;
+    align-items: center;
+    /* margin: 10px; */
+    cursor: pointer;
+    text-align: center;
+    
+}
+.img1{
+    background-color: rgb(241, 235, 235);
+}
+.content{
+    font-family: Arial,  sans-serif ;
+    color: #0F1111;
+    font-weight: 400!important;
+    font-style: normal!important;
+    text-transform: none!important;
+    text-decoration: none!important;
+    text-align: center;
+    margin:2px;
+}
+.content:hover{
+color: orangered;
+cursor: pointer;
+}
+.star{
+    align-items: left;
+    margin:3px
+   
+}
+.checked{
+ color: orange;
+}
+* {
+box-sizing: border-box;
+}
+#count{
+  color: #007185;
+}
+#count:hover{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: orangered
+}
+#p{
+    margin: 2px;
+    color: red;
+    font-size: larger;
+}
+#q{
+    font-size: small;
+    text-decoration: line-through;
+}
+#save{
+    background-color: rgb(107, 231, 107);
+}
+.save1{
+margin: 2px;
+}
+.delivery{
+    margin: 2px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
